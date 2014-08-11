@@ -24,7 +24,7 @@ h2. Editing
 | *⌘⇧D* | duplicate line(s) |
 | *⌘J* | join lines |
 | *⌘⌃⇧* | swap with line above |
-| *⌘⌃⬇*︎ | swap with line below |
+| *⌘⌃⬇* | swap with line below |
 | *⌘KU* | upper case |
 | *⌘KL* | lower case |
 | *⌘ /* | comment |
