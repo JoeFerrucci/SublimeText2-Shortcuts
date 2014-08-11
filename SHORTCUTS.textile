@@ -23,6 +23,8 @@ h2. Editing
 | *⌘K⌫* | delete from cursor to start of line |
 | *⌘⇧D* | duplicate line(s) |
 | *⌘J* | join lines |
+| *⌘^⇧ | swap with line above
+| *⌘^⇩ | swap with line below
 | *⌘KU* | upper case |
 | *⌘KL* | lower case |
 | *⌘ /* | comment |
