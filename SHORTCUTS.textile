@@ -1,9 +1,3 @@
-SublimeText2-Shortcuts
-======================
-
-Sublime Text 2 - Useful Shortcuts
-
-
 h1. Sublime Text 2 - Useful Shortcuts (Mac OS X)
 
 h2. General
